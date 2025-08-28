@@ -1,0 +1,56 @@
+{
+  "users": {
+    "aizi": {
+      "name": "Aizi",
+      "avatar": "https://a0.anyrgb.com/pngimg/1708/588/rattata-raticate-color-depth-pidgeot-8bit-pikachu-bit-sprite-pixel-art-pokemon.png",
+      "dailyLimit": 360,
+      "weeklyGoals": [
+        "Arrumar o móvel novo",
+        "Concluir agenda virtual",
+        "Organizar atividades do Jacaré"
+      ],
+      "points": 1,
+      "screenTimes": {
+        "2025-08-26": 192
+      },
+      "goalsCompleted": {
+        "2025-W35": [
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    "orfeus": {
+      "name": "Orfeus",
+      "avatar": "https://art.pixilart.com/sr280fab26ceb71.png",
+      "dailyLimit": 300,
+      "weeklyGoals": [
+        "Trocar plano da academia",
+        "Resolver o computador",
+        "Ir na bike ao menos 2 vezes"
+      ],
+      "points": 2,
+      "screenTimes": {
+        "2025-08-26": 302
+      },
+      "goalsCompleted": {
+        "2025-W35": [
+          false,
+          false,
+          false
+        ],
+        "2025-W1": [
+          false,
+          true,
+          false
+        ]
+      }
+    }
+  },
+  "gameSettings": {
+    "startDate": "2025-08-25",
+    "endDate": "2025-09-30",
+    "currentSeason": "Agosto/Setembro 2025"
+  }
+}
